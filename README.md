@@ -1,0 +1,3 @@
+# ModTest
+
+Go Modules Test
