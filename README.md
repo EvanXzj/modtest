@@ -1,3 +1,3 @@
 # ModTest
 
-Go Modules Test
+[Go Modules Test](https://roberto.selbach.ca/intro-to-go-modules/)
